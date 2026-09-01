@@ -2,7 +2,7 @@
 
 Rol: validación independiente.
 
-Validaciones:
+Ejecutar:
 - tests;
 - lint;
 - typecheck;
