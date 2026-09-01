@@ -1,0 +1,51 @@
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Secretos
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+secrets.*
+credentials.*
+
+# IDE
+.vscode/
+.idea/
+
+# JS / Web
+node_modules/
+dist/
+.next/
+.nuxt/
+coverage/
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# Java/Kotlin
+target/
+*.class
+
+# Godot
+.godot/
+
+# Logs / temporales
+*.log
+tmp/
+temp/
+
+# Codex local logs
+.codex-log/
